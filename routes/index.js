@@ -1,3 +1,5 @@
+//modified to support a Heroku Kafka instance
+
 var express = require('express');
 var router = express.Router();
 var Promise = require("bluebird");
